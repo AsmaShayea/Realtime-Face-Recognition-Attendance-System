@@ -1,18 +1,21 @@
-# Python specific
+# Python virtual environment
+myenv/
+venv/
 *.pyc
 __pycache__/
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-myenv/
-bin/
-build/
-dist/
 
-# OS Specific
+# MacOS files
 .DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Large files and model weights
+*.dylib
+*.dat
+*.so
+
+
 
 # captured_faces/
 # Attendance/
