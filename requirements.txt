@@ -1,7 +1,9 @@
+Flask
+gunicorn
+flask-cors
 dlib
 face-recognition
 numpy
 Pillow
 opencv-contrib-python
-opencv
-flask_cors
+opencv-python-headless
