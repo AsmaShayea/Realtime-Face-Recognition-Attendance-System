@@ -1,0 +1,18 @@
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+myenv/
+bin/
+build/
+dist/
+
+# OS Specific
+.DS_Store
+
+# captured_faces/
+# Attendance/
